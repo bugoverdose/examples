@@ -1,1 +1,3 @@
-# examples
+# Examples
+
+기술 블로그 작성 등에 쓰인 예시 코드들 모음
