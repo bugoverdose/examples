@@ -9,3 +9,4 @@
     - 큐는 LinkedList로 구현. (ex. pop은 0번째 값을 제거)
 - [힙](./heap) : [문제 목록](https://school.programmers.co.kr/learn/courses/30/parts/12117)
     - PriorityQueue로 구현
+- [정렬](./sort) : [문제 목록](https://school.programmers.co.kr/learn/courses/30/parts/12198)
