@@ -11,3 +11,11 @@
     - PriorityQueue로 구현
 - [정렬](./sort) : [문제 목록](https://school.programmers.co.kr/learn/courses/30/parts/12198)
 - [완전탐색](./bruteforce) : [문제 목록](https://school.programmers.co.kr/learn/courses/30/parts/12230)
+    - [에라토스테네스의 체](./bruteforce/prime)
+- [그리디](./greedy) : [문제 목록](https://school.programmers.co.kr/learn/courses/30/parts/12244)
+- [동적계획법](./dynamicprogramming) : [문제 목록](https://school.programmers.co.kr/learn/courses/30/parts/12263)
+- [DFS/BFS](./dfsbfs) : [문제 목록](https://school.programmers.co.kr/learn/courses/30/parts/12421)
+  - [유니온 파인드](./dfsbfs/network)
+- [이분탐색](./binarysearch) : [문제 목록](https://school.programmers.co.kr/learn/courses/30/parts/12486)
+- [그래프](./graph) : [문제 목록](https://school.programmers.co.kr/learn/courses/30/parts/14393)
+  - [다익스트라](./graph/dijkstra)
